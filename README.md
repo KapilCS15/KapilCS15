@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kapil Saxena</h1>
+<h1 align="center">Hi 👋, I'm Kapil Saxena</h1>
 <h3 align="center">Passionate about technology and on a journey to become a skilled software engineer. 🚀</h3>
 
 - 🌱 I’m currently learning **MERN stack**
