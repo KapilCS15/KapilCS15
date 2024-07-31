@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react,node.js**
 
-- 📫 How to reach me **salehkhatri29@gmail.com**
+- 📫 How to reach me **kapilsaxena2992@gmail.com**
 
 - ⚡ Fun fact **It's funny how everyone thinks they have learnt javascript.you haven't**
 
