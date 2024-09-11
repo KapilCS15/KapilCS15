@@ -19,13 +19,13 @@
 - 📫 How to reach me **kapilsaxena2992@gmail.com**
 
 - ⚡ Fun fact **It's funny how everyone thinks they have learnt javascript.you haven't**
-
+<br/>
 <hr/>
  
 <h2 align="center">
   <span style="font-size:36px; font-weight:bold; color:#4b8bbe;">🌐 Let's Connect & Collaborate!</span>
 </h2>
-
+<br/>
 <p align="center">
   <!-- Gmail -->
   <a href="mailto:kapilsaxena2992@gmail.com">
@@ -48,7 +48,7 @@
   </a>
   &nbsp;&nbsp;
 </p>
-
+<br/>
 <hr/>
 
 <h3 align="center">🔨 Technologies I Use 🔨</h3>
@@ -68,7 +68,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="NextJs"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="NodeJs"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=PostgreSQL-Dark" width="40" height="40" alt="Sql"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="Sql"/>
 </p>
 <p align="center">
   <!-- Row 3 -->
@@ -81,13 +81,18 @@
   <img src="https://skillicons.dev/icons?i=pycharm" width="40" height="40" alt="Pycharm"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode"/>
 </p>
+<br/>
+<hr/>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KapilCS15&show_icons=true&locale=en&layout=compact" alt="KapilCS15" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KapilCS15&show_icons=true&locale=en" alt="KapilCS15" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KapilCS15&" alt="KapilCS15" /></p>
-
-[![Kapil Saxena's GitHub | Stats](https://stats.quine.sh/KapilCS15/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=KapilCS15)
+<h2 align="center">🐍 My GitHub Statistics 🐍</h2>
+<br/>
+<p align="center">
+  <a href="https://github.com/KapilCS15">
+    <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KapilCS15&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  </a>
+  <a href="https://github.com/KapilCS15">
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=KapilCS15&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /></a>
+  <a href="https://github.com/KapilCS15">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KapilCS15&show_icons=true&locale=en&layout=compact" alt="KapilCS15" /></a> 
+</p>
