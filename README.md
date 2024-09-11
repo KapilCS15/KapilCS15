@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Kapil Saxena</h1>
+<div align="center">
+  <img src="https://i.postimg.cc/jS9XqLM9/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif" alt="Animated GIF" />
+  
+  <h1>
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Zooming+through+the+cosmos...;It's+Kapil+Saxena+dropping+in!+👋" alt="Typing SVG" />
+  </h1>
+</div>
 <h3 align="center">Passionate about technology and on a journey to become a skilled software engineer. 🚀</h3>
+<h3 align="center">🌟 Originating from India 🇮🇳 — Where chai, code, and chaos intertwine! 💻🤹‍♂️☕</h3>
+
+<br/>
+<br/>
+
 
 - 🌱 I’m currently learning **MERN stack**
 
@@ -9,15 +20,69 @@
 
 - ⚡ Fun fact **It's funny how everyone thinks they have learnt javascript.you haven't**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/_ManOfCulture" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ManOfCulture" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kapil-saxena-564768251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kapil Saxena" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kapil.saxenaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kapil.saxenaa" height="30" width="40" /></a>
+<hr/>
+ 
+<h2 align="center">
+  <span style="font-size:36px; font-weight:bold; color:#4b8bbe;">🌐 Let's Connect & Collaborate!</span>
+</h2>
+
+<p align="center">
+  <!-- Gmail -->
+  <a href="mailto:kapilsaxena2992@gmail.com">
+    <img height="40" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/kapil-saxena-564768251/" target="_blank">
+    <img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+    <!-- GitHub -->
+  <a href="https://github.com/KapilCS15" target="_blank">
+    <img height="40" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Twitter -->
+  <a href="https://x.com/_ManOfCulture" target="_blank">
+    <img height="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Calendly" />
+  </a>
+  &nbsp;&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<hr/>
+
+<h3 align="center">🔨 Technologies I Use 🔨</h3>
+
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="c"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="Html"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="Css"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;
+  
+</p>
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="Reactjs"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="NextJs"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="NodeJs"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=PostgreSQL-Dark" width="40" height="40" alt="Sql"/>
+</p>
+<p align="center">
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwindcss" width="40" height="40" alt="tailwindcss"/>
+</p>
+<p align="center">
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=pycharm" width="40" height="40" alt="Pycharm"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode"/>
+</p>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KapilCS15&show_icons=true&locale=en&layout=compact" alt="KapilCS15" /></p>
 
