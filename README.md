@@ -89,10 +89,10 @@
 <br/>
 <p align="center">
   <a href="https://github.com/KapilCS15">
-    <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KapilCS15&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KapilCS15&count_private=true&theme=merko&border_radius=10" alt="streak stats"/>
   </a>
   <a href="https://github.com/KapilCS15">
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=KapilCS15&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /></a>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=KapilCS15&count_private=true&show_icons=true&theme=merko&rank_icon=github&border_radius=10" alt="readme stats" /></a>
   <a href="https://github.com/KapilCS15">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KapilCS15&show_icons=true&locale=en&layout=compact" alt="KapilCS15" /></a> 
 </p>
